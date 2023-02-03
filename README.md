@@ -27,3 +27,9 @@ python train_and_extract_graph_features.py
 python run_roberta_rel.py (adding --do_train to the args)
 ```
 
+Trained model can be downloaded from :
+
+
+
+Dataset can be downloaded from : https://scale.com/open-av-datasets/oxford
+
