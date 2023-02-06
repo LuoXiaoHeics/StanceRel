@@ -33,3 +33,7 @@ Trained model can be downloaded from : https://drive.google.com/file/d/11YSO_BOp
 
 Dataset can be downloaded from : https://scale.com/open-av-datasets/oxford
 
+Cite as :
+
+Yun Luo, Zihan Liu, Stan Z. Li, and Yue Zhang∗. 2023. Improving (Dis)agreement Detection with Inductive Social Relation Information From Comment-Reply
+Interactions. In Proceedings of the ACM Web Conference 2023 (WWW ’23), May 1–5, 2023, Austin, TX, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3543507.3583314
