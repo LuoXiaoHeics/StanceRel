@@ -27,7 +27,7 @@ python train_and_extract_graph_features.py
 python run_roberta_rel.py (adding --do_train to the args)
 ```
 
-Trained model can be downloaded from :
+Trained model can be downloaded from : https://drive.google.com/file/d/11YSO_BOpYCDR08FyxjpX3xi7M1O2LmRK/view?usp=sharing
 
 
 
